@@ -1,0 +1,133 @@
+nGeigie.o: nGeigie.ino \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Arduino.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/binary.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/WCharacter.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/WString.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/HardwareSerial.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Stream.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Print.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Printable.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/new.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/variants/standard/pins_arduino.h \
+ /Users/user/arduino-1.0.5//libraries/SPI/SPI.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Arduino.h \
+ /Users/user/arduino-1.0.5//libraries/Ethernet/Ethernet.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/IPAddress.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Printable.h \
+ /Users/user/arduino-1.0.5//libraries/Ethernet/EthernetClient.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Print.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Client.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/IPAddress.h \
+ /Users/user/arduino-1.0.5//libraries/Ethernet/EthernetServer.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Server.h \
+ /Users/user/arduino-1.0.5//libraries/Ethernet/Dhcp.h \
+ /Users/user/arduino-1.0.5//libraries/Ethernet/EthernetUdp.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Udp.h \
+ /Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Stream.h \
+ board_specific_settings.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/SdFat.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/SdFile.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/SdBaseFile.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/SdFatConfig.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/SdVolume.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/Sd2Card.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/SdInfo.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/SdSpi.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/SdFatStructs.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/SdStream.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/iostream.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/istream.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/ios.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/ostream.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/ArduinoStream.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/bufstream.h \
+ /Users/user/arduino-1.0.5//libraries/SdFat/MinimumSerial.h \
+ /Users/user/arduino-1.0.5//libraries/LiquidCrystal/LiquidCrystal.h
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Arduino.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/binary.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/WCharacter.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/WString.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/HardwareSerial.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Stream.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Print.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Printable.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/new.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/variants/standard/pins_arduino.h:
+
+/Users/user/arduino-1.0.5//libraries/SPI/SPI.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Arduino.h:
+
+/Users/user/arduino-1.0.5//libraries/Ethernet/Ethernet.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/IPAddress.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Printable.h:
+
+/Users/user/arduino-1.0.5//libraries/Ethernet/EthernetClient.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Print.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Client.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/IPAddress.h:
+
+/Users/user/arduino-1.0.5//libraries/Ethernet/EthernetServer.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Server.h:
+
+/Users/user/arduino-1.0.5//libraries/Ethernet/Dhcp.h:
+
+/Users/user/arduino-1.0.5//libraries/Ethernet/EthernetUdp.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Udp.h:
+
+/Users/user/arduino-1.0.5//hardware/arduino/cores/arduino/Stream.h:
+
+board_specific_settings.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/SdFat.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/SdFile.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/SdBaseFile.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/SdFatConfig.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/SdVolume.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/Sd2Card.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/SdInfo.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/SdSpi.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/SdFatStructs.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/SdStream.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/iostream.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/istream.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/ios.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/ostream.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/ArduinoStream.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/bufstream.h:
+
+/Users/user/arduino-1.0.5//libraries/SdFat/MinimumSerial.h:
+
+/Users/user/arduino-1.0.5//libraries/LiquidCrystal/LiquidCrystal.h:

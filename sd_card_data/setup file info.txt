@@ -1,0 +1,28 @@
+Readme setup nGeigie V2.1.5
+
+Sd card files:
+	- NGEIGIE.CFG contains setup files for nGeigie format in the following sequence:
+		-api key
+		-ID
+		-LON
+		-LAT
+		
+		no spaces, no equal signs.. just the same as the sample:
+			q1LKu7RQ8s5pmyxunnDW
+			47
+			35.6617
+			139.7447
+			
+	- board pcb.jpg: board layout
+	- board schematic.jpg: board schematic
+	- 47 log basic file naming file
+	
+	
+
+
+
+
+		
+		
+		 
+		
